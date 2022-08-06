@@ -1,0 +1,14 @@
+.fa-star {
+    color: gold;
+}
+
+@media only screen and (max-width:576px) {
+    .sm-devie {
+        flex-direction: column;
+    }
+
+    .img-size {
+        width: 100%;
+
+    }
+}
